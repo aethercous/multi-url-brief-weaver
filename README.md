@@ -1,4 +1,4 @@
-# Aetherial-CorpusWeaver
+# multi-url-brief-weaver
 
 Multi-URL scrape + LLM synthesis into one cited brief.
 

@@ -1,4 +1,4 @@
-# Directions — Aetherial-CorpusWeaver
+# Directions — multi-url-brief-weaver
 
 ## What this is
 Multi-source corpus weaving agent. Give it several URLs; it scrapes each, then weaves a single coherent brief with citations.
